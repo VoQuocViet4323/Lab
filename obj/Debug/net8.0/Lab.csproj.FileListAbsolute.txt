@@ -1,0 +1,14 @@
+E:\C#_Codegym\Lab\bin\Debug\net8.0\Lab.exe
+E:\C#_Codegym\Lab\bin\Debug\net8.0\Lab.deps.json
+E:\C#_Codegym\Lab\bin\Debug\net8.0\Lab.runtimeconfig.json
+E:\C#_Codegym\Lab\bin\Debug\net8.0\Lab.dll
+E:\C#_Codegym\Lab\bin\Debug\net8.0\Lab.pdb
+E:\C#_Codegym\Lab\obj\Debug\net8.0\Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Codegym\Lab\obj\Debug\net8.0\Lab.AssemblyInfoInputs.cache
+E:\C#_Codegym\Lab\obj\Debug\net8.0\Lab.AssemblyInfo.cs
+E:\C#_Codegym\Lab\obj\Debug\net8.0\Lab.csproj.CoreCompileInputs.cache
+E:\C#_Codegym\Lab\obj\Debug\net8.0\Lab.dll
+E:\C#_Codegym\Lab\obj\Debug\net8.0\refint\Lab.dll
+E:\C#_Codegym\Lab\obj\Debug\net8.0\Lab.pdb
+E:\C#_Codegym\Lab\obj\Debug\net8.0\Lab.genruntimeconfig.cache
+E:\C#_Codegym\Lab\obj\Debug\net8.0\ref\Lab.dll
